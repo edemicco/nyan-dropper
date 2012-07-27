@@ -1,0 +1,21 @@
+@import "reset.css";
+
+body {
+	background: black;
+}
+
+h1 {
+	width: 980px;
+	margin: 30px auto 30px;
+	color: #fff;
+	font-size: 48px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+#mainCanvas {
+	border: 1px solid #fff;
+	cursor: none;
+	margin: 15px auto 0;
+	display: block;
+}
